@@ -14,7 +14,7 @@ A computer running Unity
 
 A cardboard or similar material for creating the airplane controller
 
-#Installing
+# Installing
 Clone this repository to your local machine.
 
 Connect the ADXL 345 sensor to your Arduino board.
@@ -33,7 +33,7 @@ Attach the airplane controller to your computer.
 
 Run the Unity project.
 
-#Usage
+# Usage
 Tilt the airplane controller to control the pitch, roll, and yaw of the game object.
 
-#Video Demonstration
+# Video Demonstration
